@@ -5,3 +5,5 @@
  - 创建Develop分支
  - Hello World!!!
  - 在远端创建分支并编辑文档
+ - 测试git commit emoji
+
